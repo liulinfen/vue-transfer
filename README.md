@@ -1,6 +1,6 @@
 # transfer
 
-> A Vue.js project
+> 基于element-ui的transfer组件改造的可以进行上下左右移动的transfer组件
 
 ## Build Setup
 
